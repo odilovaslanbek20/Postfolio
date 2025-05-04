@@ -10,10 +10,16 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body style={{
         backgroundImage: `url("yulduz.png")`,
+        backgroundPosition: "center",
+        backgroundAttachment: "fixed", 
+        margin: 0, 
         width: "100%",
-        height: "100vh",
+        height: "100%", 
+        overflowX: "hidden", 
       }} className="antialiased">
-        {children}
+        <div style={{ minHeight: "100vh", overflowY: "auto" }}>
+          {children}
+        </div>
       </body>
     </html>
   );
