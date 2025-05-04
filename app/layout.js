@@ -8,7 +8,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className="antialiased">
+      <body style={{
+        backgroundImage: `url("yulduz.png")`,
+        width: "100%",
+        height: "100vh",
+      }} className="antialiased">
         {children}
       </body>
     </html>
