@@ -2,7 +2,7 @@ import { FaInstagram, FaTelegramPlane, FaFacebookF, FaLinkedinIn } from 'react-i
 
 function Link() {
 	return (
-		<div className='w-full bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200 px-4 py-2 text-sm'>
+		<div className='w-full fixed bottom-0 left-0 bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200 px-4 py-2 text-sm'>
 			<div className='max-w-7xl mx-auto flex justify-between items-center flex-wrap'>
 				<div className='flex items-center space-x-4'>
 					<a href='tel:+998992662880'>📞 +998 99 266 28 80</a>
