@@ -24,11 +24,11 @@ function Header() {
 								modal ? 'max-[620px]:right-0' : 'max-[620px]:right-[-100%]'
 							}`}
 						>
-							<Link className='group' href='#'>
+							<Link className='group' href='/'>
 								<p className='text-[#fff] font-semibold'>About me</p>
 								<div className='w-0 h-[1px] transition-all group-hover:w-full bg-[#fff]'></div>
 							</Link>
-							<Link className='group' href='#'>
+							<Link className='group' href='/portfolio'>
 								<p className='text-[#fff] font-semibold'>Portfolio</p>
 								<div className='w-0 h-[1px] transition-all group-hover:w-full bg-[#fff]'></div>
 							</Link>

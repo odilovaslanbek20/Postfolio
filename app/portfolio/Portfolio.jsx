@@ -1,0 +1,9 @@
+function Portfolio() {
+	return (
+		<div className='min-h-screen bg-[#000]'>
+			<p className='text-[#fff] text-[10px] font-bold text-center'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto dolores itaque aspernatur cum cumque, consequatur soluta quasi beatae veritatis ipsum est natus, eaque maiores voluptas totam? Ipsum ullam saepe, praesentium vero esse doloribus quis error voluptatum vitae magni cum odio provident modi! Cupiditate odit inventore possimus sed quod voluptatem dicta, asperiores provident eveniet earum, eum cumque excepturi fugit minus fuga expedita consectetur suscipit. Saepe maxime voluptatem neque aut autem cupiditate, error officia fugiat laudantium eveniet alias laborum suscipit laboriosam quidem ipsa distinctio harum? In, minus dolor asperiores dolorum tempore at neque laudantium nostrum assumenda inventore, sunt aspernatur iure molestiae ullam harum, ducimus culpa dicta rerum nemo eum facere nam incidunt modi! Quibusdam ratione nam quia deserunt, non sequi placeat expedita rerum ipsa adipisci veniam ut enim tenetur sunt! Dolorum, id quibusdam placeat veritatis repellat sed magni aperiam distinctio repudiandae corporis eum temporibus laudantium voluptates adipisci laborum assumenda porro? Excepturi minus animi repellat pariatur, vel fugiat enim eaque sint laudantium neque expedita in itaque iusto, aspernatur inventore beatae nulla. Magni voluptate ea fugit consequatur dolor molestiae reprehenderit hic quas aliquid labore quod fuga voluptatum cum tenetur, tempore ipsum culpa provident rerum soluta perferendis! Impedit itaque voluptate, quo eos ullam magni autem.</p>
+		</div>
+	)
+}
+
+export default Portfolio
