@@ -9,7 +9,7 @@ function Header() {
 	const [modal, setModal] = useState(false)
 	return (
 		<>
-			<header className='fixed top-0 py-[10px] bg-[#000]/50 backdrop-blur-2xl w-full border-b border-[#fff]'>
+			<header className='fixed top-0 z-50 py-[10px] bg-[#000]/50 backdrop-blur-2xl w-full border-b border-[#fff]'>
 				<div className='max-w-[90%] m-auto flex items-center justify-between'>
 					<Link href='/'>
 						<img
