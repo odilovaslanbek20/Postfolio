@@ -21,7 +21,7 @@ function Skills() {
 				{skills.map(skill => (
 					<div
 						key={skill.id}
-						className='bg-white/5 border border-white/10 rounded-xl p-4 hover:shadow-lg hover:shadow-[#ffffff1a] transition duration-300 flex flex-col items-center'
+						className='bg-white/10 border border-white/10 rounded-xl p-4 hover:shadow-lg hover:shadow-[#ffffff1a] transition duration-300 flex flex-col items-center'
 					>
 						<img
 							src={skill.image}
