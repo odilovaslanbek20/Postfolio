@@ -28,7 +28,7 @@ function Header() {
 								<p className='text-[#fff] font-semibold'>About me</p>
 								<div className='w-0 h-[1px] transition-all group-hover:w-full bg-[#fff]'></div>
 							</Link>
-							<Link className='group' href='/portfolio'>
+							<Link className='group' href='#'>
 								<p className='text-[#fff] font-semibold'>Portfolio</p>
 								<div className='w-0 h-[1px] transition-all group-hover:w-full bg-[#fff]'></div>
 							</Link>
