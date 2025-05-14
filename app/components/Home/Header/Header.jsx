@@ -20,7 +20,7 @@ function Header() {
 					</Link>
 					<nav>
 						<div
-							className={`flex items-center gap-[40px] max-[620px]:fixed max-[620px]:top-0 max-[620px]:flex-col max-[620px]:w-[320px] max-[620px]:border max-[620px]:bg-[#212121] max-[620px]:h-screen max-[620px]:py-[50px] transition-all duration-300 ease-in-out ${
+							className={`flex items-center gap-[40px] max-[620px]:fixed max-[620px]:top-0 max-[620px]:flex-col max-[620px]:w-[320px] max-[620px]:border max-[620px]:bg-[#212121]/95 max-[620px]:backdrop-blur-3xl max-[620px]:h-screen max-[620px]:py-[50px] transition-all duration-300 ease-in-out ${
 								modal ? 'max-[620px]:right-0' : 'max-[620px]:right-[-100%]'
 							}`}
 						>

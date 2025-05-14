@@ -6,10 +6,10 @@ function Skills() {
 		{ id: 4, name: 'JavaScript', image: 'javadcript.png' },
 		{ id: 5, name: 'TypeScript', image: 'ts.jpg' },
 		{ id: 6, name: 'Git', image: 'git.png' },
-		{ id: 6, name: 'Tailwind css', image: 'tailwind.png' },
-		{ id: 6, name: 'Bootstrap', image: 'bootstrap.png' },
-		{ id: 6, name: 'React js', image: 'React.webp' },
-		{ id: 6, name: 'Next js', image: 'next.png' },
+		{ id: 7, name: 'Tailwind css', image: 'tailwind.png' },
+		{ id: 8, name: 'Bootstrap', image: 'bootstrap.png' },
+		{ id: 9, name: 'React js', image: 'React.webp' },
+		{ id: 10, name: 'Next js', image: 'next.png' },
 	]
 
 	return (
